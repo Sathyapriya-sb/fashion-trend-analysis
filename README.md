@@ -1,4 +1,4 @@
-# EDA on Fashion Trends
+# Comprehensive Analysis on Fashion Trends
 
 ## Overview
 
